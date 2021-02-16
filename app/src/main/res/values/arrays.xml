@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Titles">
+        <item>Home</item>
+        <item>My Account</item>
+        <item>Upload Book</item>
+        <item>Block/Unblock Users</item>
+        <item>Issued/Returned Books</item>
+        <item>Approve Book Issue</item>
+        <item>Approve Book Return</item>
+        <item />
+        <item>Share</item>
+        <item>About</item>
+        <item>Reach Us</item>
+        <item />
+        <item>Exit</item>
+    </string-array>
+
+    <array name="Icons">
+        <item>@drawable/ic_home_purple_24dp</item>
+        <item>@drawable/ic_person_purple_24dp</item>
+        <item>@drawable/ic_add_book_24dp</item>
+        <item>@drawable/ic_block_purple_24dp</item>
+        <item>@drawable/ic_search_book_24dp</item>
+        <item>@drawable/ic_pending_24dp</item>
+        <item>@drawable/ic_check_black_24dp</item>
+        <item>0</item>
+        <item>@drawable/ic_share_purple_24dp</item>
+        <item>@drawable/ic_aboutus_purple_24dp</item>
+        <item>@drawable/ic_email_black_24dp</item>
+        <item>0</item>
+        <item>@drawable/ic_logout_purple_24dp</item>
+    </array>
+
+    <string-array name="StudentTitles">
+        <item>Home</item>
+        <item>My Account</item>
+        <item>Search Book</item>
+        <item>View/Cancel Request</item>
+        <item>Issued/Returned Books</item>
+        <item />
+        <item>Share</item>
+        <item>About</item>
+        <item>Reach Us</item>
+        <item />
+        <item>Exit</item>
+    </string-array>
+
+    <array name="StudentIcons">
+        <item>@drawable/ic_home_purple_24dp</item>
+        <item>@drawable/ic_person_purple_24dp</item>
+        <item>@drawable/ic_search_book_24dp</item>
+        <item>@drawable/ic_cancel_24dp</item>
+        <item>@drawable/ic_history</item>
+        <item>0</item>
+        <item>@drawable/ic_share_purple_24dp</item>
+        <item>@drawable/ic_aboutus_purple_24dp</item>
+        <item>@drawable/ic_email_black_24dp</item>
+        <item>0</item>
+        <item>@drawable/ic_logout_purple_24dp</item>
+    </array>
+
+</resources>
