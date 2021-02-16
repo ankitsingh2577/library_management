@@ -7,7 +7,7 @@ import android.view.inputmethod.InputMethodManager;
 public class Functions {
 
     //Main URL
-    private static String MAIN_URL = "https://ankitsingh2577.000webhostapp.com/Library_Management/";
+    private static String MAIN_URL = "*** ENTER YOUR SERVER URL HERE ***";
 
     // Login URL
     public static String LOGIN_URL = MAIN_URL + "login.php";
